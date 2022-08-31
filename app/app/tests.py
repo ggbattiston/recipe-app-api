@@ -21,4 +21,3 @@ class CalcTest(SimpleTestCase):
 
 # To run test using docker:
 # docker-compose run --rm app sh -c "python manage.py test"
-
